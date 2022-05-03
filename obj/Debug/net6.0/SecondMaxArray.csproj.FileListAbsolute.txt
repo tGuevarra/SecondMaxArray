@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\bin\Debug\net6.0\SecondMaxArray.exe
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\bin\Debug\net6.0\SecondMaxArray.deps.json
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\bin\Debug\net6.0\SecondMaxArray.runtimeconfig.json
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\bin\Debug\net6.0\SecondMaxArray.dll
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\bin\Debug\net6.0\SecondMaxArray.pdb
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\SecondMaxArray.csproj.AssemblyReference.cache
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\SecondMaxArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\SecondMaxArray.AssemblyInfoInputs.cache
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\SecondMaxArray.AssemblyInfo.cs
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\SecondMaxArray.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\SecondMaxArray.dll
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\refint\SecondMaxArray.dll
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\SecondMaxArray.pdb
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\SecondMaxArray.genruntimeconfig.cache
+C:\Users\denis\source\repos\SecondMaxArray\SecondMaxArray\obj\Debug\net6.0\ref\SecondMaxArray.dll
